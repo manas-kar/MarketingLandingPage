@@ -6,7 +6,7 @@ import json
 import time
 
 # Initialize OpenAI client (use dummy key here)
-openai.api_key = "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"
+openai.api_key = "sk-proj-xxxxxxxxxx-03sZoxxxxx"
 
 class ContentAgent:
     """Agent responsible for generating marketing copy and content"""
